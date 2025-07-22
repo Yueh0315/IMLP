@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# data
+.pdf
+.jpg
+*.csv
+*.png
+UNIT02/data/
+UNIT02/extension_studies/
+UNIT02/images/
+
