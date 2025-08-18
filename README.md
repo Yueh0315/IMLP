@@ -20,3 +20,5 @@
 - Hands-on practice with feature encoding and normalization  
 - Basic model training and evaluation using scikit-learn
 
+## Unit 04 - Regression
+- 
