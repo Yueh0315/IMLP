@@ -219,3 +219,4 @@ UNIT02/images/
 UNIT03/images/
 */images/
 *.pdf
+!Unit06/kaggle_titanic_yzh.png
